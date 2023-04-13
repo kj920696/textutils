@@ -1,38 +1,45 @@
-.App {
+
+
+.head{
+  font-size: 50px;
   text-align: center;
+  text-decoration: underline;
+  font-family: 'Times New Roman', Times, serif;
+  color: yellow;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.two{
+  font-size: 20px;
+  color:yellow;
+  font-family: 'Times New Roman', Times, serif;
+
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+
+
+.b1{
+  background: linear-gradient(to right, blue, green);
+  margin-top: 30px;
+  margin-bottom: 30px;
+  
+  
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+
+.centered-textarea {
+  width: 1000px; /* Set the desired width of the textarea */
+  height: 200px; /* Set the desired height of the textarea */
+  margin-left: 180px; /* Center the textarea horizontally */
+  font-size: 25px;
+  color: brown;
 }
 
-.App-link {
-  color: #61dafb;
+.two{
+  margin-left: 180px;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
-}
+
+
+
+
+
