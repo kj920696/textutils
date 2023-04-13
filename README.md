@@ -1,3 +1,5 @@
+#This project will help to Count words and characters in sentence and it also reverse the sentence.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
